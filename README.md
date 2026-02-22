@@ -28,7 +28,7 @@ Re - Réaumur
 
 Installation
 
-open the link https://github.com/Ahmad-1102/temperature-converter/index.html
+open the link https://ahmad-1102.github.io/simple-temperature-converter-all-units-/temperature-converter/index.html
 
 Usage
 
