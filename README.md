@@ -14,6 +14,7 @@ Features
 
 -Clean blue-themed UI
 
+
 Supported Units
 
 C - Celsius
@@ -26,9 +27,11 @@ R - Rankine
 
 Re - Réaumur
 
+
 Installation
 
 open the link https://ahmad-1102.github.io/simple-temperature-converter-all-units-/temperature-converter/index.html
+
 
 Usage
 
@@ -42,6 +45,7 @@ Usage
 
 -Result displays with unit symbol
 
+
 Technologies
 
 HTML5
@@ -50,13 +54,18 @@ CSS3 (Flexbox layout)
 
 Vanilla JavaScript
 
+
 Project Status
 
 Beginner learning project. Works correctly but uses basic patterns. Part of JavaScript fundamentals practice.
 
+
 License
 
 MIT
-Author
+
+
+Author:
 Ahmad
+
 GitHub: @Ahmad-1102
