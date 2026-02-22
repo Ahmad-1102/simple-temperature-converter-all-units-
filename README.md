@@ -48,11 +48,11 @@ Usage
 
 Technologies
 
-HTML5
+-HTML5
 
-CSS3 (Flexbox layout)
+-CSS3 (Flexbox layout)
 
-Vanilla JavaScript
+-Vanilla JavaScript
 
 
 Project Status
