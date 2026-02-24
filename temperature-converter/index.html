@@ -5,14 +5,27 @@
         <title>Temperature Converter</title>
     </head>
     <body>
-        <input type="number" placeholder="Degrees" class="js-degrees-input degrees-input">
-        <input placeholder="enter Unit from" class="js-unit-from-input unit-from-input">
-        <input placeholder="enter Unit to" class="js-unit-to-input unit-to-input">
-        <button class="convert-btn" onclick="
-            convertTemperature()">Convert</button>
-            <div class="result-css">
-                <p class="js-result"></p>
-            </div>
+        <div class="all">
+            <select class="js-unit-from-select unit-from-select">
+                <option value="C">Celsius</option>
+                <option value="F">Fahrenheit</option>
+                <option value="K">Kelvin</option>
+                <option value="R">Rankine</option>
+                <option value="RE">Réaumur</option>
+            </select>
+            <select class="js-unit-to-select unit-to-select">
+                <option value="C">Celsius</option>
+                <option value="F">Fahrenheit</option>
+                <option value="K">Kelvin</option>
+                <option value="R">Rankine</option>
+                <option value="RE">Réaumur</option>
+            </select>
+            <input type="number" placeholder="Degrees" class="js-degrees-input degrees-input">
+            <button class="js-convert-btn convert-btn">Convert</button>
+                <div class="result-css">
+                    <p class="js-result"></p>
+                </div>
+        </div>
         <script src="script.js"></script>
     </body>
 </html>
