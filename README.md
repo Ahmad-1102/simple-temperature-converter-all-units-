@@ -37,9 +37,9 @@ Usage
 
 -Enter temperature value
 
--Type unit to convert FROM (C, F, K, R, Re)
+-Select unit to convert FROM
 
--Type unit to convert TO
+-Select unit to convert TO
 
 -Click Convert
 
