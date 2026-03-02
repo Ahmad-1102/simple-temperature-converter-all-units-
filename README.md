@@ -1,4 +1,4 @@
-🌡️ Temperature Converter
+Temperature Converter
 
 A web-based temperature converter supporting Celsius, Fahrenheit, Kelvin, Rankine, and Réaumur.
 
